@@ -1,0 +1,14 @@
+name: ml-cookbook
+dependencies:
+- python=3.6
+- ipython
+- jupyter
+- scikit-learn
+- numpy
+- matplotlib
+- pandas
+- opencv
+- cython
+- pip:
+  - tensorflow
+  - keras
