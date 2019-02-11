@@ -1,6 +1,6 @@
 name: ml-cookbook
 dependencies:
-- python=3.6
+- python=3.7
 - ipython
 - jupyter
 - scikit-learn
