@@ -9,6 +9,9 @@ dependencies:
 - pandas
 - opencv
 - cython
+- xlrd
+- sqlalchemy
 - pip:
-  - tensorflow
+  - tensorflow-gpu
   - keras
+  - fancyimpute
