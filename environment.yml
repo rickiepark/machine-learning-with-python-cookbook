@@ -11,6 +11,10 @@ dependencies:
 - cython
 - xlrd
 - sqlalchemy
+- beautifulsoup4
+- lxml
+- nltk
+- konlpy
 - pip:
   - tensorflow-gpu
   - keras
