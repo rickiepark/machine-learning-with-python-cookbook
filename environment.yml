@@ -14,8 +14,8 @@ dependencies:
 - beautifulsoup4
 - lxml
 - nltk
-- konlpy
 - pip:
   - tensorflow-gpu
   - keras
   - fancyimpute
+  - konlpy
