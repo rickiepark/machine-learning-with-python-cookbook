@@ -15,6 +15,7 @@ dependencies:
 - lxml
 - nltk
 - seaborn
+- pydotplus
 - pip:
   - tensorflow-gpu
   - keras
