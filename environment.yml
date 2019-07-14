@@ -4,7 +4,7 @@ dependencies:
 - ipython
 - jupyter
 - scikit-learn
-- numpy
+- numpy=1.16.2
 - matplotlib
 - pandas
 - opencv
@@ -16,8 +16,10 @@ dependencies:
 - nltk
 - seaborn
 - pydotplus
+- pydot
+- pillow
 - pip:
-  - tensorflow-gpu
+  - tensorflow
   - keras
   - fancyimpute
   - konlpy
