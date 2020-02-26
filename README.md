@@ -10,7 +10,7 @@
 번역서에 관한 궁금한 점이나 오류가 있다면 깃허브에 이슈를 남겨 주시거나 [블로그](https://bit.ly/ml-cookbook)를 통해 알려 주세요.
 
 
-테스트 환경: Python 3.7, numpy 1.16.2, scikit-learn 0.21.2, pandas 0.24.2, keras 2.2.4
+테스트 환경: Python 3.7, numpy 1.18.1, scikit-learn 0.22.1, pandas 1.0.1, keras 2.3.1
 
 
 감사합니다!
