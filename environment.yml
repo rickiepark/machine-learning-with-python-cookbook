@@ -19,7 +19,6 @@ dependencies:
 - pydot
 - pillow
 - pip:
-  - tensorflow=2.0.0
-  - keras
+  - tensorflow
   - fancyimpute
   - konlpy
